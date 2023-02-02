@@ -1,5 +1,6 @@
 ### Hi there 👋, Hafiz Al Fahim
-![]((https://i.postimg.cc/90JDspdb/cover.jpg))
+![](https://i.postimg.cc/90JDspdb/cover.jpg)
+
 
 As a computer science student passionate about research and development, I am driven to expand my knowledge and skills in the field constantly. I aim to become a well-rounded researcher and developer, using my expertise to make a meaningful impact in the technology industry. 
 
