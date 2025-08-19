@@ -1,4 +1,4 @@
-[![Chat-GPT-Image-Aug-20-2025-03-01-55-AM.png](https://i.postimg.cc/L5Jg0b4s/Chat-GPT-Image-Aug-20-2025-03-01-55-AM.png)](https://postimg.cc/ctNJvTnq)
+[![freepik-upload-94431.jpg](https://i.postimg.cc/qvN06Hbq/freepik-upload-94431.jpg)](https://postimg.cc/cvGPP2NG)
 <h1 align="center">Hi 👋, I'm Hafiz</h1>
 <h3 align="center">As a computer science student passionate about research and development, I am driven to expand my knowledge and skills in the field constantly. I aim to become a well-rounded researcher and developer, using my expertise to make a meaningful impact in the technology industry.</h3>
 
