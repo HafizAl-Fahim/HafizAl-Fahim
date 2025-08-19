@@ -1,4 +1,4 @@
-![](https://i.postimg.cc/90JDspdb/cover.jpg)
+![]([https://i.postimg.cc/90JDspdb/cover.jpg](https://postimg.cc/PNV1f0j5)
 <h1 align="center">Hi 👋, I'm Hafiz</h1>
 <h3 align="center">As a computer science student passionate about research and development, I am driven to expand my knowledge and skills in the field constantly. I aim to become a well-rounded researcher and developer, using my expertise to make a meaningful impact in the technology industry.</h3>
 
@@ -59,15 +59,6 @@
     <img src="https://colab.research.google.com/img/colab_favicon_256px.png" alt="Google Colab" width="40" height="40"/> 
   </a> 
 
-  <!-- LaTeX -->
-  <a href="https://www.latex-project.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/9/92/LaTeX_logo.svg" alt="LaTeX" width="40" height="40"/> 
-  </a> 
-
-  <!-- Overleaf -->
-  <a href="https://www.overleaf.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.worldvectorlogo.com/logos/overleaf.svg" alt="Overleaf" width="40" height="40"/> 
-  </a> 
 
   <!-- VS Code -->
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> 
