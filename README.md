@@ -8,7 +8,7 @@
 - 👨‍💻 All of my projects are available at Here
 - 📫 How to reach me **hafizalfahim@proton.me**
 
-- 📄 Know about my experiences [https://sites.google.com/view/hafizalfahim](https://sites.google.com/view/hafizalfahim)
+- 📄 Know about my experiences [https://hafizalfahim.site/)
 
 - ⚡ Fun fact **Which came first :p the chicken or the egg?**
 
