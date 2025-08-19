@@ -1,4 +1,4 @@
-![]([[https://i.postimg.cc/90JDspdb/cover.jpg](https://postimg.cc/PNV1f0j5](https://i.postimg.cc/WbT88PYg/Chat-GPT-Image-Aug-20-2025-03-01-55-AM.png))
+[![Chat-GPT-Image-Aug-20-2025-03-01-55-AM.png](https://i.postimg.cc/L5Jg0b4s/Chat-GPT-Image-Aug-20-2025-03-01-55-AM.png)](https://postimg.cc/ctNJvTnq)
 <h1 align="center">Hi 👋, I'm Hafiz</h1>
 <h3 align="center">As a computer science student passionate about research and development, I am driven to expand my knowledge and skills in the field constantly. I aim to become a well-rounded researcher and developer, using my expertise to make a meaningful impact in the technology industry.</h3>
 
