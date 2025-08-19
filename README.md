@@ -5,13 +5,76 @@
 <img align = "right" alt = "Coding" width = "400" src = "https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hafizal-fahim&label=Profile%20views&color=0e75b6&style=flat" alt="hafizal-fahim" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://sites.google.com/view/hafizalfahim](https://sites.google.com/view/hafizalfahim)
-
-- 📫 How to reach me **fahim01765@gmail.com**
+- 👨‍💻 All of my projects are available at Here
+- 📫 How to reach me **hafizalfahim@proton.me**
 
 - 📄 Know about my experiences [https://sites.google.com/view/hafizalfahim](https://sites.google.com/view/hafizalfahim)
 
 - ⚡ Fun fact **Which came first :p the chicken or the egg?**
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> 
+  <!-- Python -->
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/> 
+  </a> 
+
+  <!-- C -->
+  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/> 
+  </a> 
+
+  <!-- Artificial Intelligence (AI - brain icon) -->
+  <a href="https://en.wikipedia.org/wiki/Artificial_intelligence" target="_blank" rel="noreferrer"> 
+    <img src="https://cdn-icons-png.flaticon.com/512/4712/4712100.png" alt="AI" width="40" height="40"/> 
+  </a> 
+
+  <!-- Machine Learning -->
+  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Machine Learning" width="40" height="40"/> 
+  </a> 
+
+  <!-- Deep Learning -->
+  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="Deep Learning" width="40" height="40"/> 
+  </a> 
+
+  <!-- Computer Vision -->
+  <a href="https://opencv.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="Computer Vision" width="40" height="40"/> 
+  </a> 
+
+  <!-- Data Preprocessing (Pandas) -->
+  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Data Preprocessing" width="40" height="40"/> 
+  </a> 
+
+  <!-- Data Collection (Jupyter) -->
+  <a href="https://jupyter.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" alt="Data Collection" width="40" height="40"/> 
+  </a> 
+
+  <!-- Google Colab -->
+  <a href="https://colab.research.google.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://colab.research.google.com/img/colab_favicon_256px.png" alt="Google Colab" width="40" height="40"/> 
+  </a> 
+
+  <!-- LaTeX -->
+  <a href="https://www.latex-project.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/9/92/LaTeX_logo.svg" alt="LaTeX" width="40" height="40"/> 
+  </a> 
+
+  <!-- Overleaf -->
+  <a href="https://www.overleaf.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://cdn.worldvectorlogo.com/logos/overleaf.svg" alt="Overleaf" width="40" height="40"/> 
+  </a> 
+
+  <!-- VS Code -->
+  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/> 
+  </a> 
+</p>
+
 
 
 
